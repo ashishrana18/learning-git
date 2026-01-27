@@ -2,3 +2,5 @@ hello from text file
 
 hello from main branch
 hello from git-rebase branch
+
+hello again from main branch
